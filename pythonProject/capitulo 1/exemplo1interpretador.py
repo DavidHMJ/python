@@ -1,0 +1,1 @@
+# O interpretador do Python é um programa que lê e executo o código Python.
